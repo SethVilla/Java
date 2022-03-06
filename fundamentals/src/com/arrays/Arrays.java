@@ -1,4 +1,4 @@
-package com;
+package com.arrays;
 
 public class Arrays {
   public static int[] sortedArray(int[] array) {
